@@ -18,16 +18,17 @@ The project implements a single player pong game (in VHDL) that is displayed on 
 ## Files
 | **Name**            | **Comment**                                                          |
 |---------------------|----------------------------------------------------------------------|
-| dsd_prj_pkg.vhdl    | Parameters used for the VGA controller, pong and mandelbrot circuits |
-| mandelbrot.vhdl     | Basic circuit for mandelbrot                                         |
-| mandelbrot_top.vhdl | Toplevel of pong game, mandelbrot and rgb fadeout                    |
+| dsd_prj_pkg.vhdl    | Parameters used for the VGA controller, pong and Mandelbrot circuits |
+| mandelbrot.vhdl     | Basic circuit for Mandelbrot                                         |
+| mandelbrot_top.vhdl | Toplevel of pong game, Mandelbrot and rgb fadeout                    |
 | pong_fsm.vhdl       | Finite state machine for pong game                                   |
-| rgb_fade.vhdl       | Circuit for rgb fadeout algorithm                                    |
+| rgb_fade.vhdl       | Circuit for RGB fadeout algorithm                                    |
 | vga_controller.vhdl | Circuit for VGA controller                                           |
 
 
 
 <!-- CONTACT -->
 ## Contact
-[lvuilleu](https://github.com/lvuilleu)    <br />
-Samuel Bumann - samuel.bumann@epfl.ch
+[lvuilleu](https://github.com/lvuilleu) <br>
+Samuel Bumann - samuel.bumann@epfl.ch <br>
+[lvuilleu](https://github.com/lvuilleu) 
