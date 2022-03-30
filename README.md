@@ -33,4 +33,4 @@ The project implements a single player pong game (in VHDL) that is displayed on 
 Samuel Bumann - samuel.bumann@epfl.ch <br>
 
 <br>
-Project Link: [https://github.com/sdbumann/PongVHDL](https://github.com/sdbumann/PongVHDL)
+Project Link: https://github.com/sdbumann/PongVHDL
