@@ -7,6 +7,7 @@
 
 * [About the Project](#about-the-project)
 * [Files](#files)
+* [Video](#video)
 * [Contact](#contact)
  
 <!-- ABOUT THE PROJECT -->
@@ -25,7 +26,9 @@ The project implements a single player pong game (in VHDL) that is displayed on 
 | rgb_fade.vhdl       | Circuit for RGB fadeout algorithm                                    |
 | vga_controller.vhdl | Circuit for VGA controller                                           |
 
-
+<!-- VIDEO -->
+## Video
+[Video of robot](https://photos.app.goo.gl/CrNNvm9hojq8qMoG9)
 
 <!-- CONTACT -->
 ## Contact
