@@ -8,7 +8,7 @@
 * [About the Project](#about-the-project)
 * [Files](#files)
 * [Contact](#contact)
-
+ 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The project implements a single player pong game (in VHDL) that is displayed on a monitor via VGA connection. The background of the game is a random part of the Mandelbrot set that depends on the user input.
