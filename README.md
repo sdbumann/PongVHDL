@@ -28,7 +28,7 @@ The project implements a single player pong game (in VHDL) that is displayed on 
 
 <!-- VIDEO -->
 ## Video
-[Video of robot](https://photos.app.goo.gl/CrNNvm9hojq8qMoG9)
+[Video of pong game](https://photos.app.goo.gl/CrNNvm9hojq8qMoG9)
 
 <!-- CONTACT -->
 ## Contact
